@@ -1,0 +1,29 @@
+@import "./../../assets/styles/colors.scss";
+
+/*
+ This styles come by default by every `create-react-app`. We tweaked them a bit to match
+ the Hello Fresh colors. Feel free to remove or modify this file.
+ */
+
+ .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #F8F8F8;
+  height: 150px;
+  padding: 20px;
+  color: #91C11E;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
